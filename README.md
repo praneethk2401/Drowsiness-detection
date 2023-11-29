@@ -131,6 +131,10 @@ Graph for MAR
 Graph for EAR
 ![image](https://github.com/praneethk2401/Drowsiness-detection/assets/69918295/a8d54a8e-b394-4c06-8905-558ff571e293)
 
+Upon testing for accuracy of the system, the accuracy of the system is checked on the dataset it creates when it stores the frames when yawning or sleepiness is detected. 
+But first the dataset need to be labelled and collect as much as possible frames for better accuracy.
+Accuarcy: 97 % 
+
 ## Future Scope:  
 Improvements in image capturing techniques, the latency of the model and the processing of the images would be made.
 
