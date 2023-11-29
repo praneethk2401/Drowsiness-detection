@@ -1,4 +1,4 @@
-# Drowsiness Detection System(webapp)
+# Drowsiness Detection and Alert System.
 This application detects drowsiness while driving so to reduce risk of accidents caused by it. This application is built using Flask framework with the support of Python Libraries for the backend and the frontend part is built using HTML, CSS and JavaScript for the usser to interact with the system
 ## Motivation: 
 According to the National Highway Traffic Safety Administration (NHTSA), drowsy driving continues to be a significant road safety concern. In 2021, an estimated 684 people died in drowsy-driving-related crashes. This represents a slight increase from 649 deaths in 2020.
