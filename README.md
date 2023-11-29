@@ -127,8 +127,11 @@ Also, in order to toggle between the front and back camera, type the IP upto "ht
 
 Also, we have tried plotting the MAR and EAR graph Vs. Time in order to make the working clearer to the audience. The graph looks like: <br> 
 Graph for MAR
+
 ![image](https://github.com/praneethk2401/Drowsiness-detection/assets/69918295/e6be8238-72b4-456c-b600-76607d4a33f9)
+
 Graph for EAR
+
 ![image](https://github.com/praneethk2401/Drowsiness-detection/assets/69918295/a8d54a8e-b394-4c06-8905-558ff571e293)
 
 Upon testing for accuracy of the system, the accuracy of the system is checked on the dataset it creates when it stores the frames when yawning or sleepiness is detected. 
